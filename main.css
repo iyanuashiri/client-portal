@@ -1,9 +1,9 @@
 .bg-color{
-    background-color: dodgerblue;
+    background-color: #87cefa;
 }
 
 .line-color, h1, a{
-    color: white;
+    color: red;
 }
 
 .line-color{
